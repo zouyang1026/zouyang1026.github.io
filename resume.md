@@ -23,6 +23,7 @@ Pursuing a degree in GIS with a minor in Informatics, focusing on machine learni
 # Leadership and Extracurricular Activities
 
 ## Husky Help Organization, UW Seattle
+![Husky Help Organization Logo](https://media.licdn.com/dms/image/C560BAQFvr24B3iEKBQ/company-logo_200_200/0/1630617126272?e=1714003200&v=beta&t=p-68gTX1jgLfiUFId_aQJqFx274J3V-qfxnP9RMbdzQ)
 *The Husky Help Organization at the University of Washington is a student-run group focused on supporting new students and organizing university events.*
 
 ** HR Director (Jan. 2023 - Dec. 2023)**
